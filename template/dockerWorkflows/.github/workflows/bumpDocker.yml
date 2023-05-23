@@ -30,6 +30,6 @@ jobs:
     with:
       dockerHubUser: jaidchen
       arch: linux/amd64,linux/arm64/v8
-      versionTag: ${{ needs.bump.outputs.newTag }}
+      versionTag: ${{ needs.bump.outputs.newSemver }}
     secrets:
       dockerHubToken: ${{ secrets.dockerHubToken }}
