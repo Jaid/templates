@@ -30,6 +30,7 @@ Temporary Items
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!.vscode/*.code-snippets
 
 # dotenv
 .env
@@ -38,5 +39,3 @@ Temporary Items
 /out/
 /dist/
 /temp/
-/srcCompiled/
-/srcCompiled-*/
