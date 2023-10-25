@@ -39,5 +39,6 @@ Temporary Items
 /out/
 /dist/
 /temp/
+/private/
 /srcCompiled/
 /srcCompiled-*/
