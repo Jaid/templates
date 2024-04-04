@@ -40,5 +40,4 @@ Temporary Items
 /dist/
 /temp/
 /private/
-/srcCompiled/
-/srcCompiled-*/
+/cache/
