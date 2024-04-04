@@ -54,10 +54,12 @@ node_modules/
 *.tsbuildinfo
 .npm
 .npmrc
-.eslintcache
 .node_repl_history
 package-lock.json
 !/package-lock.json
+
+# ESLint
+.eslintcache
 
 # Wireit
 /.wireit/
